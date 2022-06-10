@@ -13,7 +13,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DisguisedPhoenix"><img width="32px" alt="Youtube" title="Youtube" src="https://ibb.co/Ss1BYhF"/></a>
+  <a href="https://www.youtube.com/c/DisguisedPhoenix"><img width="32px" alt="Youtube" title="Youtube" src="https://i.ibb.co/K0QW4MT/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/jean_codes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
