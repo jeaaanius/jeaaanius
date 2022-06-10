@@ -27,6 +27,11 @@
 
 <br/>
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/limborock_15)
+<br/>
+
 <!--
 **jeaaanius/jeaaanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
