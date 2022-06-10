@@ -1,5 +1,7 @@
-<h1> Hiya friend! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">  I am <a href="https://github.com/jeaaanius">jeaaanius</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+<h3> Hiya friend! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">  I am <a href="https://github.com/jeaaanius">jeaaanius</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+</h3>
+
+<h4> I am a <h4> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B1D1&lines=Front+End+Developer;Web+Designer;Software+Engineer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 <!--
 **jeaaanius/jeaaanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
