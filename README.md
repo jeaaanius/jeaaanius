@@ -2,7 +2,7 @@
 </h3>
 
 <h4> I am a <h4>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B1D1&lines=Front+End+Developer;Web+Designer;Software+Engineer;UI%2FUX+Designer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Web+Designer;Software+Engineer;UI%2FUX+Designer)](https://git.io/typing-svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Second+line+of+text)](https://git.io/typing-svg)
 
