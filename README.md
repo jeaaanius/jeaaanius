@@ -8,20 +8,22 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Web%20Designer;UI%2FUX%20Designer;Software%20Engineer;Data%20Science%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=F7B1D1&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Web%20Designer;UI%2FUX%20Designer;Software%20Engineer;Data%20Science%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=FF82A9&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DisguisedPhoenix"><img width="32px" alt="Youtube" title="Youtube" src="https://i.ibb.co/K0QW4MT/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/c/DisguisedPhoenix"><img width="32px" alt="Youtube" title="Youtube" src="https://i.ibb.co/kh42R09/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/jean_codes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.ibb.co/MMBh2Yb/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/jean_codes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.ibb.co/PDM6RHv/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!--<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="https://linkedin/in/jeaaanius"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.ibb.co/LJZ4X4c/Vector.png"></a>
+    <a href="https://instagram.com/_jean_ius"><img width="32px" alt="Instagram" title="Instagram" src="https://i.ibb.co/QnWWs8W/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://behance.net/jeaaanius"><img width="32px" alt="Behance" title="Behance" src="https://i.ibb.co/QFbzMgb/behance.png"/></a>
+  <a href="https://discord.com/users/680765968993353820" alt="Discord"><img width="32px" src="https://i.ibb.co/pWHmfSx/discord.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/jeaaanius"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.ibb.co/6J8N9RX/linkedin.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://behance.net/jeaaanius"><img width="32px" alt="Behance" title="Behance" src="https://i.ibb.co/HXnpf0B/behance.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -40,20 +42,30 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeaaanius&theme=dracula&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jean Limbo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jeaaanius&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jean Limbo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeaaanius&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jean Limbo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jeaaanius&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FF82A9&icon_color=7F95D1" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jean Limbo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeaaanius&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FF82A9&icon_color=7F95D1&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jean Limbo's Activity Graph" src="https://DenverCoder1-activity-graph.herokuapp.com/graph/?username=jeaaanius&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jean Limbo's Activity Graph" src="https://DenverCoder1-activity-graph.herokuapp.com/graph/?username=jeaaanius&bg_color=1F222E&color=FF82A9&line=7F95D1&point=FFFFFF&hide_border=true" /></a>
   
 <!--### Now Playing 🎧
 
