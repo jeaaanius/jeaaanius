@@ -73,11 +73,11 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
   <summary><b>👨‍💻 Programming languages </b></summary>
   <br/>
   
-<a href="https://www.w3schools.com/CPP/default.asp"><img height="32" width="32" src="https://ico.now.sh/cplusplus/00599C" alt="C++" align="left" /></a>
-<a href="https://www.java.com/en/"><img height="32" width="32" src="https://ico.now.sh/java/007396" alt="Java" align="left" /></a>
-<a href="https://www.mathworks.com"><img height="32" width="32" src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" alt="MATLAB" align="left" /></a>
-<a href="https://www.php.net"><img height="32" width="32" src="https://ico.now.sh/php/777BB4" alt="PHP" align="left" /></a>
-<a href="https://www.python.org"><img height="32" width="32" src="https://ico.now.sh/python/3776AB" alt="Python" align="left" /></a>
+<a href="https://www.w3schools.com/CPP/default.asp"><img height="32" width="32" src="https://ico.now.sh/cplusplus/00599C" title="C++" alt="C++" align="left" /></a>
+<a href="https://www.java.com/en/"><img height="32" width="32" src="https://ico.now.sh/java/007396" title="Java" alt="Java" align="left" /></a>
+<a href="https://www.mathworks.com"><img height="32" width="32" src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" title="MATLAB" alt="MATLAB" align="left" /></a>
+<a href="https://www.php.net"><img height="32" width="32" src="https://ico.now.sh/php/777BB4" title="PHP" alt="PHP" align="left" /></a>
+<a href="https://www.python.org"><img height="32" width="32" src="https://ico.now.sh/python/3776AB" title="Python" alt="Python" align="left" /></a>
 
 &nbsp;
 
@@ -87,18 +87,15 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
   <summary><b>🌐 Web Development </b></summary>
   <br/>
   
-<a href="https://getbootstrap.com"><img height="32" width="32" src="https://ico.now.sh/bootstrap/7952B3" alt="Bootstrap" align="left" /></a>
-<a href="https://www.w3schools.com/css/"><img height="32" width="32" src="https://ico.now.sh/css3/1572B6" alt="CSS" align="left" /></a>
-<a href="https://firebase.google.com"><img height="32" width="32" src="https://ico.now.sh/firebase/FFCA28" alt="Firebase" align="left" /></a>
-<!-- <a href="https://www.gatsbyjs.com"><img height="32" width="32" src="https://ico.now.sh/gatsby/663399" alt="Gatsby" align="left" /></a> -->
-<!-- <a href="https://www.heroku.com"><img height="32" width="32" src="https://ico.now.sh/heroku/430098" alt="Heroku" align="left" /></a> -->
-<a href="https://www.w3schools.com/html/"><img height="32" width="32" src="https://ico.now.sh/html5/E34F26" alt="HTML5" align="left" /></a>
-<a href="https://www.w3schools.com/js/"><img height="32" width="32" src="https://ico.now.sh/javascript/F7DF1E" alt="JavaScript" align="left" /></a>
-<a href="https://www.mysql.com"><img height="32" width="32" src="https://ico.now.sh/mysql/4479A1" alt="MySQL" align="left" /></a>
-<!-- <a href="https://nodejs.org/en/"><img height="32" width="32" src="https://ico.now.sh/nodedotjs/339933" alt="NodeJS" align="left" /></a> -->
-<a href="https://reactjs.org"><img height="32" width="32" src="https://ico.now.sh/react/61DAFB" alt="React" align="left" /></a>
-<a href="https://sass-lang.com"><img height="32" width="32" src="https://ico.now.sh/sass/CC6699" alt="Sass" align="left" /></a>
-<a href="https://wordpress.com"><img height="32" width="32" src="https://ico.now.sh/wordpress/21759B" alt="WordPress" align="left" /></a>
+<a href="https://getbootstrap.com"><img height="32" width="32" src="https://ico.now.sh/bootstrap/7952B3" title="Bootstrap" alt="Bootstrap" align="left" /></a>
+<a href="https://www.w3schools.com/css/"><img height="32" width="32" src="https://ico.now.sh/css3/1572B6" title="CSS" alt="CSS" align="left" /></a>
+<a href="https://firebase.google.com"><img height="32" width="32" src="https://ico.now.sh/firebase/FFCA28" title="Firebase" alt="Firebase" align="left" /></a>
+<a href="https://www.w3schools.com/html/"><img height="32" width="32" src="https://ico.now.sh/html5/E34F26" title="HTML5" alt="HTML5" align="left" /></a>
+<a href="https://www.w3schools.com/js/"><img height="32" width="32" src="https://ico.now.sh/javascript/F7DF1E" title="JavaScript" alt="JavaScript" align="left" /></a>
+<a href="https://www.mysql.com"><img height="32" width="32" src="https://ico.now.sh/mysql/4479A1" title="MySQL" alt="MySQL" align="left" /></a>
+<a href="https://reactjs.org"><img height="32" width="32" src="https://ico.now.sh/react/61DAFB" title="React" alt="React" align="left" /></a>
+<a href="https://sass-lang.com"><img height="32" width="32" src="https://ico.now.sh/sass/CC6699" title="Sass" alt="Sass" align="left" /></a>
+<a href="https://wordpress.com"><img height="32" width="32" src="https://ico.now.sh/wordpress/21759B" title="WordPress" alt="WordPress" align="left" /></a>
   
 &nbsp;
   
@@ -108,14 +105,14 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
   <summary><b>💻 Tools/Technologies </b></summary>
   <br/>
   
-<a href="https://codepen.io"><img height="32" width="32" src="https://ico.now.sh/codepen/000000" alt="Codepen" align="left" /></a>
-<a href="https://https://git-scm.com"><img height="32" width="32" src="https://ico.now.sh/git/F05032" alt="Git" align="left" /></a>
-<a href="https://www.linux.org"><img height="32" width="32" src="https://ico.now.sh/linux/FCC624" alt="Linux" align="left" /></a>
-<a href="https://www.netlify.com"><img height="32" width="32" src="https://ico.now.sh/netlify/00C7B7" alt="Netlify" align="left" /></a>
-<a href="https://code.visualstudio.com"><img height="32" width="32" src="https://ico.now.sh/visualstudiocode/007ACC" alt="VS Code" align="left" /></a>
-<a href="https://www.jetbrains.com/webstorm/"><img height="32" width="32" src="https://ico.now.sh/webstorm/000000" alt="Webstorm" align="left" /></a>
-<a href="https://www.microsoft.com"><img height="32" width="32" src="https://ico.now.sh/windows/0078D6" alt="Windows" align="left" /></a>
-<a href="https://www.apachefriends.org"><img height="32" width="32" src="https://ico.now.sh/xampp/FB7A24" alt="Xampp" align="left" /></a>
+<a href="https://codepen.io"><img height="32" width="32" src="https://ico.now.sh/codepen/000000" title="Codepen" alt="Codepen" align="left" /></a>
+<a href="https://https://git-scm.com"><img height="32" width="32" src="https://ico.now.sh/git/F05032" title="Git" alt="Git" align="left" /></a>
+<a href="https://www.linux.org"><img height="32" width="32" src="https://ico.now.sh/linux/FCC624" title="Linux" alt="Linux" align="left" /></a>
+<a href="https://www.netlify.com"><img height="32" width="32" src="https://ico.now.sh/netlify/00C7B7" title="Netlify" alt="Netlify" align="left" /></a>
+<a href="https://code.visualstudio.com"><img height="32" width="32" src="https://ico.now.sh/visualstudiocode/007ACC" title="VS Code" alt="VS Code" align="left" /></a>
+<a href="https://www.jetbrains.com/webstorm/"><img height="32" width="32" src="https://ico.now.sh/webstorm/000000" title="Webstorm" alt="Webstorm" align="left" /></a>
+<a href="https://www.microsoft.com"><img height="32" width="32" src="https://ico.now.sh/windows/0078D6" title="Windows" alt="Windows" align="left" /></a>
+<a href="https://www.apachefriends.org"><img height="32" width="32" src="https://ico.now.sh/xampp/FB7A24" title="Xampp" alt="Xampp" align="left" /></a>
   
 &nbsp;
 
