@@ -80,26 +80,27 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 
 &nbsp;
 
-
 </details>
 
 <details>
   <summary><b>🌐 Web Development </b></summary>
   <br/>
   
- [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/#web-dev)
- [![CSS](https://img.shields.io/badge/-CSS-EEE?style=flat-square&logo=css3&logoColor=1572B6)](https://dinhanhthi.com/)
- [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://dinhanhthi.com/)
- [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)](https://dinhanhthi.com/tags/gatsbyjs/)
- [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)](https://dinhanhthi.com/)
- [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://dinhanhthi.com/#web-dev)
- [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/#web_development)
- [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/)
- [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://dinhanhthi.com/nodejs-npm)
- [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/tags)
- [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/#web_development)
- [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://dinhanhthi.com/tags/wordpress/)
-
+<img height="32" width="32" src="https://ico.now.sh/bootstrap/7952B3" alt="Bootstrap" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/css3/1572B6" alt="CSS" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/firebase/FFCA28" alt="Firebase" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/gatsby/663399" alt="Gatsby" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/heroku/430098" alt="Heroku" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/html5/E34F26" alt="HTML5" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/javascript/F7DF1E" alt="JavaScript" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/mysql/4479A1" alt="MySQL" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/nodedotjs/339933" alt="NodeJS" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/react/61DAFB" alt="React" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/sass/CC6699" alt="Sass" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/wordpress/21759B" alt="WordPress" align="left" />
+  
+&nbsp;
+  
 </details>
 
 <details>
