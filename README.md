@@ -72,11 +72,14 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
   <summary><b>👨‍💻 Programming languages </b></summary>
   <br/>
   
-![C++](https://img.shields.io/badge/-C++-EEE?style=flat-square&logo=cplusplus&logoColor=9C033A)&nbsp;
-![Java](https://img.shields.io/badge/-Java-EEE?style=flat-square&logo=java&logoColor=007396)&nbsp;
-![Matlab](http://img.shields.io/badge/-Matlab-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAB4FBMVEUAAABEUFBEKSliKB+uKg+pJQ9EgoJEior4ew+lJA9Enp5E7OxEenqsJg+kJA9EUVFEpKRERkawJw+qJQ9t185ttq1rx75iycIAAA+oJQ9t3NNt1s2rJg+vJw9tzcRr0sptv7Ztx75uuK9xfXDzdQ/EOw9bFA/faQ///w/4gA/2ew+yKA+xJw/CUQ/73Q/i1g/6ig/qcQ+tJg9Tb2qWQB+5Kwo7k5ddWU3CQA9Dl5dCgILJSQ+hFg9Efn5EhYVGYGDRUA+sIg9DmZlEhYVDY2OwJw9v1ctpsahMW1q1Kw+pIw9t3NNt2dBtzsVtvLO7MQ+sJQ9t2M9t0smvJg93FA9t0sltyL9tv7Vqsqn3dQ/NRQ+yKQ+qJQ9svLNdqqRbKiXvdA/8fA/LQQ+zKQ+uJg+KHgquQQ/lbg/rcQ+xJg+vJg/2pA/7lg/0fA+pJQ//6Q//6w//yA/MdBBuPirnkg2ELRLwjg9RLiyXMA7zhA/bWA9ENTVFMzJjGhOkOA/yfA/kYQ9mkYpNREJOIB53Gw6vQA/xdw/saQ9tyL9tuK9rpZ1TVFFiFhCIIw+6SA/vdA/zcA/EOw9XdHBaHhl6Gw6bMA/HUw/wdA94Gw6VLA+1RQ/WYA/MWg/cZw/8sA/////ZsN0CAAAAcnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnxiEh1HwGl9EXGoT4+VA90P6YDErS1hkjZr71+U+A9JkBCWLh/uzj2yczWrHIOyGTciri1zANTpLiRQFFzE1molHMAAAAe0lEQVQI1zXHq4oCAQAF0HvKBovFtEEmWVQUhAEVBB/NZPBvxSDswxHfX7BfscFimtOOJAmGXL0kST4MTL9v/iVp0Df2407SpEepcqeFLiOcnnzW4ehhrZ5fZxul2oEtJnVomzHGFyiwUKrsrEg6LEcXOywk6Zuz56/IGyJAGp/iP+53AAAAAElFTkSuQmCC&logoColor=4951aa)&nbsp;
-![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)&nbsp;
-![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)&nbsp;
+<img height="32" width="32" src="https://ico.now.sh/cplusplus/00599C" alt="C++" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/java/007396" alt="Java" align="left" />
+<img height="32" width="32" src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" alt="MATLAB" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/php/777BB4" alt="PHP" align="left" />
+<img height="32" width="32" src="https://ico.now.sh/python/3776AB" alt="Python" align="left" />
+
+&nbsp;
+
 
 </details>
 
