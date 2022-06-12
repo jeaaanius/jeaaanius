@@ -67,7 +67,7 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeaaanius&theme=dracula&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeaaanius&theme=dracula&currStreakLabel=7F95D1&currStreakNum=7F95D1&sideLabels=FF82A9&ring=FF82A9&fire=FF82A9&sideNums=FF82A9&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
