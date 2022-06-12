@@ -61,6 +61,9 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 * 😍 My hobbies are singing 🎤 and dancing 💃
 * 🎬 I love to watch Netflix and KDrama
 * 🎵 I listen to Kpop, Pop and HipHop songs
+Now Playing 🎧
+
+[![Spotify](https://novatorem-jeaaanius.vercel.app/api/spotify)](https://open.spotify.com/user/limborock_15)
 
 ## 🛠️ Languages and Tools
 - Programming languages : <br />
@@ -113,8 +116,3 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jean Limbo's Activity Graph" src="https://DenverCoder1-activity-graph.herokuapp.com/graph/?username=jeaaanius&bg_color=1F222E&color=FF82A9&line=7F95D1&point=FFFFFF&hide_border=true" /></a>
-  
-<!--### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/limborock_15)
-<br/> -->
