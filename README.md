@@ -1,4 +1,4 @@
-![Jean Limbo Banner](assets/webjam-competition.jpg)
+<!--![Jean Limbo Banner](assets/webjam-competition.jpg) -->
 
 <h3 align="center">
   Hello World!
