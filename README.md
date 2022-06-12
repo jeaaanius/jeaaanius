@@ -1,7 +1,7 @@
 ![Jean Limbo Banner](assets/webjam-competition.jpg)
 
 <h3 align="center">
-  Hiya friend!
+  Hello World!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">
   I am <a href="https://github.com/jeaaanius">jeaaanius</a>
   <img height="28px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
@@ -100,7 +100,7 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 </details>
 
 <details>
-  <summary><b>💻 OS & IDE & Tools </b></summary>
+  <summary><b>💻 Tools/Technologies </b></summary>
   <br/>
   
   [![Codepen](http://img.shields.io/badge/-Codepen-eee?style=flat-square&logo=codepen&logoColor=000000)](https://dinhanhthi.com/git)
