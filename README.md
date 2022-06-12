@@ -61,7 +61,8 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 * 😍 My hobbies are singing 🎤 and dancing 💃
 * 🎬 I love to watch Netflix and KDrama
 * 🎵 I listen to Kpop, Pop and HipHop songs
-Now Playing 🎧
+
+### 🎧 Now Playing
 
 [![Spotify](https://novatorem-jeaaanius.vercel.app/api/spotify)](https://open.spotify.com/user/limborock_15)
 
