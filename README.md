@@ -1,3 +1,5 @@
+![Jean Limbo Banner](assets/webjam-competition.jpg)
+
 <h3 align="center">
   Hiya friend!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">
@@ -46,12 +48,19 @@
 Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Computer Science with a Specialization in Software Engineering. A highly motivated individual and passionate Front End Developer with expertise in Adobe Creative Suite - Photoshop and Illustrator, HTML, and CSS who creates seamless UX and UI with creative yet functional designs. I've created over 5+ websites, including a Web and SMS-Based Information Dissemination system.
 ### ✨ Quick Facts
 * 👨‍💻  I'm currently working <a href="https://www.netpoleons.com">@NSPH Inc.</a> as a Systems Engineer Intern.
-* 🕸️  I am passionate about Web Dev & I enjoy learning new things.
+* 🕸️  I am passionate about Web Dev particularly Front End & I enjoy learning new things.
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * <img width="20" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/prediction-chart-data-graph-trend-line-512.png" alt="" /> Aside from web development, I wish to explore the realm of data science.
-* 🌱 I'm on track for learning more about JavaScript, React and Tailwind CSS
+* 🌱 I'm on pace to learn more about JavaScript, React and Tailwind CSS
+* 💬 Ask me anything about HTML, CSS, JS (After googling it of course 😜) 
+* 💌 Contact me at [jeanlimbo0915@gmail.com](mailto:jeanlimbo0915@gmail.com).
+* 📄  You can check my <a href="https://drive.google.com/file/d/1EXJcizICWb3seSgmpc2LS1TqQ1nYFgUZ/view?usp=sharing"> Resume </a> for more details about my work experience.
 
-<br>
+### ❤️ Personal Facts
+* ⚡ Fun fact: I am a night owl 🦉
+* 😍 My hobbies are singing 🎤 and dancing 💃
+* 🎬 I love to watch Netflix and KDrama
+* 🎵 I listen to Kpop, Pop and HipHop songs
 
 ## 🔥 Streak stats
 
@@ -82,18 +91,3 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/limborock_15)
 <br/> -->
-
-<!--
-**jeaaanius/jeaaanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
