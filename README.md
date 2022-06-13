@@ -1,5 +1,3 @@
-<!--![Jean Limbo Banner](assets/webjam-competition.jpg) -->
-
 <h3 align="center">
   Hello World!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">
@@ -45,7 +43,7 @@
 </p>
 
 ## 🚀 About Me
-Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Computer Science with a Specialization in Software Engineering. A highly motivated individual and passionate Front End Developer with expertise in Adobe Creative Suite - Photoshop and Illustrator, HTML, and CSS who creates seamless UX and UI with creative yet functional designs. I've created over 5+ websites, including a Web and SMS-Based Information Dissemination system.
+Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Computer Science with a Specialization in Software Engineering. A highly motivated individual and passionate Front End Developer with expertise in Adobe Creative Suite - Photoshop and Illustrator, HTML, and CSS who creates seamless UX and UI with creative yet functional designs. I've created over 5+ websites, including a <a href="https://github.com/jeaaanius/eHanda"> Web and SMS-Based Information Dissemination system. </a>
 
 ### ✨ Quick Facts
 * 👨‍💻  I'm currently working <a href="https://www.netpoleons.com">@NSPH Inc.</a> as a Systems Engineer Intern.
