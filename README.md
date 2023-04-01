@@ -53,7 +53,7 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 * 🌱 I'm on pace to learn more about JavaScript, React and Tailwind CSS
 * 💬 Ask me anything about HTML, CSS, JS (After googling it of course 😜) 
 * 💌 Contact me at [jeanlimbo0915@gmail.com](mailto:jeanlimbo0915@gmail.com).
-* 📄  You can check my <a href="https://drive.google.com/file/d/1EXJcizICWb3seSgmpc2LS1TqQ1nYFgUZ/view?usp=sharing"> Resume </a> for more details about my work experience.
+* 📄  You can check my <a href="https://drive.google.com/file/d/1pxJWKh9MweM_cROsnmS8-gqkuo_UR1NI/view?usp=share_link"> Resume </a> for more details about my work experience.
 
 ### ❤️ Personal Facts
 * ⚡ Fun fact: I am a night owl 🦉
