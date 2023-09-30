@@ -1,5 +1,4 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Web%20Designer;UI%2FUX%20Designer;Software%20Engineer;Data%20Science%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=FF82A9&vCenter=true&size=22"></a>
 </p>
@@ -10,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/jean_codes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.ibb.co/PDM6RHv/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://instagram.com/_jean_ius"><img width="32px" alt="Instagram" title="Instagram" src="https://i.ibb.co/QnWWs8W/instagram.png"></a>
+  <a href="https://instagram.com/_jean_ius"><img width="32px" alt="Instagram" title="Instagram" src="https://i.ibb.co/QnWWs8W/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/680765968993353820" alt="Discord"><img width="32px" src="https://i.ibb.co/pWHmfSx/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -122,14 +121,12 @@ Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Co
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jean Limbo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jeaaanius&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FF82A9&icon_color=7F95D1" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jean Limbo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeaaanius&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FF82A9&icon_color=7F95D1&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+  <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+  <br/><br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jean Limbo's Activity Graph" src="https://DenverCoder1-activity-graph.herokuapp.com/graph/?username=jeaaanius&bg_color=1F222E&color=FF82A9&line=7F95D1&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jean Limbo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jeaaanius&bg_color=1F222E&color=FF82A9&line=7F95D1&point=FFFFFF&hide_border=true" /></a>
