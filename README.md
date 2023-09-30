@@ -1,9 +1,3 @@
-<h3 align="center"> Hello World!
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28">
-  I am <a href="https://github.com/jeaaanius">jeaaanius</a>
-  <img height="28px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
-</h3>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
