@@ -35,17 +35,19 @@
 </p>
 
 ## 🚀 About Me
-Hi, I'm Jean Limbo. An undergraduate student from the Philippines pursuing BS Computer Science with a Specialization in Software Engineering. A highly motivated individual and passionate Front End Developer with expertise in Adobe Creative Suite - Photoshop and Illustrator, HTML, and CSS who creates seamless UX and UI with creative yet functional designs. I've created over 5+ websites, including a <a href="https://github.com/jeaaanius/eHanda"> Web and SMS-Based Information Dissemination system. </a>
+An exceptionally driven and enthusiastic web designer and front-end developer with over 2 years of freelancing experience, focusing on HTML5, CSS3, and JavaScript. I excel in crafting user experiences (UX) and user interfaces (UI) that combine creativity with functionality.
+
+I am skilled at working collaboratively with dynamic teams to construct top-tier websites and discover ways to improve the user experience. I have successfully designed and developed more than 5 websites, such as a <a href="https://www.1donestudios.com"> marketing agency in Minneapolis. </a>
 
 ### ✨ Quick Facts
-* 👨‍💻  I'm currently working <a href="https://www.1donestudios.com">@1DoneStudios</a> as a Web Designer and Web Developer.
+* 👨‍💻  I'm currently working <a href="https://www.1donestudios.com"> @1DoneStudios </a> as a Web Designer and Web Developer.
 * 🕸️  I am passionate about Web Dev particularly Front End & I enjoy learning new things.
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * <img width="20" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/prediction-chart-data-graph-trend-line-512.png" alt="" /> Aside from web development, I wish to explore the realm of data science.
 * 🌱 I'm on pace to learn more about JavaScript, React and Tailwind CSS
 * 💬 Ask me anything about HTML, CSS, JS (After googling it of course 😜) 
 * 💌 Contact me at [jeanlimbo0915@gmail.com](mailto:jeanlimbo0915@gmail.com).
-* 📄  You can check my <a href="https://drive.google.com/file/d/11T6aPxiesqC6sJiYzrPkXbS-0MAIFewY/view?usp=sharing"> Resume </a> for more details about my work experience.
+* 📄  You can check my <a href="https://drive.google.com/file/d/1OLZgxDATAFQmf-inZjnWxf_NpW0WOQAB/view?usp=sharing"> Resume </a> for more details about my work experience.
 
 ### ❤️ Personal Facts
 * ⚡ Fun fact: I am a night owl 🦉
