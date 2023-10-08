@@ -35,7 +35,7 @@
 </p>
 
 ## 🚀 About Me
-An exceptionally driven and enthusiastic web designer and front-end developer with over 2 years of freelancing experience, focusing on HTML5, CSS3, and JavaScript. I excel in crafting user experiences (UX) and user interfaces (UI) that combine creativity with functionality.
+Hi 👋 I am Jean Darren Limbo, an exceptionally driven and enthusiastic web designer and front-end developer with over 2 years of freelancing experience, focusing on HTML5, CSS3, and JavaScript. I excel in crafting user experiences (UX) and user interfaces (UI) that combine creativity with functionality.
 
 I am skilled at working collaboratively with dynamic teams to construct top-tier websites and discover ways to improve the user experience. I have successfully designed and developed more than 5 websites, such as a <a href="https://www.1donestudios.com"> marketing agency in Minneapolis. </a>
 
