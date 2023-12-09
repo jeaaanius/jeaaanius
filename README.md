@@ -35,12 +35,12 @@
 </p>
 
 ## 🚀 About Me
-Hi 👋 I am Jean Darren Limbo, an exceptionally driven and enthusiastic web designer and front-end developer with over 2 years of freelancing experience, focusing on HTML5, CSS3, and JavaScript. I excel in crafting user experiences (UX) and user interfaces (UI) that combine creativity with functionality.
+Hi 👋 I am Jean Darren Limbo, an exceptionally driven and enthusiastic Web Designer and Front-End Developer with over 3 years of freelancing experience, focusing on HTML5, CSS3, and JavaScript. I excel in crafting user experiences (UX) and user interfaces (UI) that combine creativity with functionality.
 
-I am skilled at working collaboratively with dynamic teams to construct top-tier websites and discover ways to improve the user experience. I have successfully designed and developed more than 5 websites, such as a <a href="https://www.1donestudios.com"> marketing agency in Minneapolis. </a>
+I am skilled at working collaboratively with dynamic teams to construct top-tier websites and discover ways to improve the user experience. I have successfully designed and developed more than 5 websites, such as a <a href="https://www.optimuminnovatus.com"> Food Ordering System Web Application </a>
 
 ### ✨ Quick Facts
-* 👨‍💻  I'm currently working <a href="https://www.1donestudios.com"> @1DoneStudios </a> as a Web Designer and Web Developer.
+* 👨‍💻  I'm currently working <a href="https://www.optimuminnovatus.com"> @OptimumInnovatus </a> as a UI/UX Web Designer and Front-End Developer.
 * 🕸️  I am passionate about Web Dev particularly Front End & I enjoy learning new things.
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * <img width="20" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/prediction-chart-data-graph-trend-line-512.png" alt="" /> Aside from web development, I wish to explore the realm of data science.
