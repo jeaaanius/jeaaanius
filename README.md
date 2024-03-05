@@ -40,7 +40,7 @@ Hi 👋 I am Jean Darren Limbo, an exceptionally driven and enthusiastic Web Des
 I am skilled at working collaboratively with dynamic teams to construct top-tier websites and discover ways to improve the user experience. I have successfully designed and developed more than 5 websites, such as a <a href="https://www.1donestudios.com"> Marketing Agency in Minneapolis </a>
 
 ### ✨ Quick Facts
-* 👨‍💻  I'm currently working <a href="https://dannyveiga.com"> @DVMMarketing </a> as a Senior Web Designer.
+* 👨‍💻  I'm currently working <a href="https://dannyveiga.com"> @DannyVeigaMarketing </a> as a Senior Web Designer.
 * 🕸️  I am passionate about Web Dev particularly Front End & I enjoy learning new things.
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * <img width="20" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/prediction-chart-data-graph-trend-line-512.png" alt="" /> Aside from web development, I wish to explore the realm of data science.
