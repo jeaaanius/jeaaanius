@@ -47,7 +47,7 @@ I am skilled at working collaboratively with dynamic teams to construct top-tier
 * 🌱 I'm on pace to learn more about JavaScript, React and Tailwind CSS
 * 💬 Ask me anything about HTML, CSS, JS (After googling it of course 😜) 
 * 💌 Contact me at [jeanlimbo0915@gmail.com](mailto:jeanlimbo0915@gmail.com).
-* 📄  You can check my <a href="https://drive.google.com/file/d/1OLZgxDATAFQmf-inZjnWxf_NpW0WOQAB/view?usp=sharing"> Resume </a> for more details about my work experience.
+* 📄  You can check my <a href="https://drive.google.com/file/d/1GwSoOctLhOIg7qR2rzhJgHzLdX0P4j4v/view?usp=sharing"> Resume </a> for more details about my work experience.
 
 ### ❤️ Personal Facts
 * ⚡ Fun fact: I am a night owl 🦉
