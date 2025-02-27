@@ -41,6 +41,7 @@ I am skilled at working collaboratively with dynamic teams to construct top-tier
 
 ### ✨ Quick Facts
 * 👨‍💻  I'm currently working <a href="https://divriots.com"> @DIVRIOTS </a> as a Freelance Web Designer.
+* 🚀 **Latest Work**: Contributed a template to [DivRiot’s Figma.to.Website plugin](https://figma.to.website), now used by 30k+ users! 
 * 🕸️  I am passionate about Web Dev particularly Front End & I enjoy learning new things.
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
 * <img width="20" src="https://cdn1.iconfinder.com/data/icons/data-science-flat-1/64/prediction-chart-data-graph-trend-line-512.png" alt="" /> Aside from web development, I wish to explore the realm of data science.
